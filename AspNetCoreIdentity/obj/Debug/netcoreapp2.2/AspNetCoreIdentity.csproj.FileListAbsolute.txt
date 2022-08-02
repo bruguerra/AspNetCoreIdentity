@@ -2,7 +2,6 @@ C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspN
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.json
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.runtimeconfig.dev.json
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\netcoreapp2.2\AspNetCoreIdentity.dll
-C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csprojAssemblyReference.cache
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csproj.CoreCompileInputs.cache
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cache
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.RazorAssemblyInfo.cs

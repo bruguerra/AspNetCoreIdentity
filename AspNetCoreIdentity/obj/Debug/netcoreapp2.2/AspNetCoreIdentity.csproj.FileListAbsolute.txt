@@ -38,3 +38,5 @@ C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razo
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.g.cshtml.cs
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.g.cshtml.cs
 C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Home\Secret.g.cshtml.cs
+C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\AspNetCoreIdentity.csprojAssemblyReference.cache
+C:\dotNetCore\AspNetCoreIdentity\AspNetCoreIdentity\obj\Debug\netcoreapp2.2\Razor\Views\Teste\Index.g.cshtml.cs
